@@ -1,0 +1,6 @@
+// DB_HOST={ db.ncddhgoemdbghyzcmvmg.supabase.co }
+// DB_DATBASE={ postgres }
+// DB_USER={ User }
+// DB_PORT={ 5432 }
+// DB_PASS={ tset-esabatad-database-test }
+// DB_URL={ postgresql://postgres:tset-esabatad-database-test@db.ncddhgoemdbghyzcmvmg.supabase.co:5432/postgres }
